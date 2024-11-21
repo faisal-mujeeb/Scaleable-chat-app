@@ -1,5 +1,6 @@
-Scalable Chat Application
-Overview
+# Scalable Chat Application
+
+# Overview
 This project is a Scalable Chat Application designed to handle real-time communication between users. Built with a modern and robust tech stack, the application ensures high performance, scalability, and reliability. It integrates real-time messaging capabilities, message queuing, caching, and efficient database management to deliver a seamless chat experience.
 
 Features
