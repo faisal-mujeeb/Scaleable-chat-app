@@ -10,6 +10,5 @@ Caching: Redis reduces database load with efficient caching and pub/sub function
 Data Persistence: PostgreSQL serves as the backbone for managing relational data.
 Modern UI: Built with Next.js to provide a fast and responsive user experience.
 
-![Uploading diagram-export-21-11-2024-18_52_35.png…]()
-
+[![diagram-export-21-11-2024-18_52_35](https://github.com/user-attachments/assets/c283d990-d41c-43a6-bd6c-2cbd7d14e00f)
 
